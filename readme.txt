@@ -3,7 +3,7 @@ Contributors: nphaskins
 Author URI:  http://nickhaskins.com
 Plugin URI: http://nickhaskins.com/idea-factory
 Donate link: http://nickhaskins.com/idea-factory
-Tags: vote, voting, idea, feedback, user submission, front end submission, front end voting
+Tags: vote, voting, idea, feedback, user submission, front end submission, front end voting, adopt-me
 Requires at least: 3.8
 Tested up to: 4.1
 Stable tag: 1.1
